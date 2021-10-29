@@ -5,7 +5,7 @@
  //programmer: kristen nelms                 
 
  //description:
- //     this program creates classes for various types of financial investments--realestate, stock, commodity, and savingsaccount. 
+ //     this program creates classes for various types of financial investments--realestate, stock, commodity, and savings account. 
  //     each investment type has its own barrier restricting liquidation and means of accruing value. 
  //     this program uses those factors to then calculate value, liquidation, create monthly statements, and generate an output of all of that information.
 ///////////////////////////////////////////////////////////////////////
