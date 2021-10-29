@@ -1,4 +1,4 @@
-// Filename: NelmsLab01.cpp
+// Filename: studentGradeCalculator.cpp
 // Date: August 28, 2021
 // Programmer: Kristen Nelms           
 //
