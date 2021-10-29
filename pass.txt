@@ -1,0 +1,10 @@
+Student Name     Student ID       Exam 1        Exam 2        Final Exam       Lab Grade      Homework Grade    Adjusted Average
+Two       222243  34  40  20  11  31.65
+Four      444460  0   0   0   0   12  
+Student Name     Student ID       Exam 1        Exam 2        Final Exam       Lab Grade      Homework Grade    Adjusted Average
+Kristen               1111           90.00         93.00           94.00           100.00            100.00            99.25
+Four               4444           93.00         97.00           98.00           100.00            100.00           100.00
+Student Name     Student ID       Exam 1        Exam 2        Final Exam       Lab Grade      Homework Grade    Adjusted Average
+Kristen      111192.0093.0090.00200.00100.00100.00
+Two      222293.0094.0095.00100.00100.00100.00
+Five      555595.0096.0099.00100.00100.00100.00
